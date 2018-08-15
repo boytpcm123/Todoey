@@ -50,8 +50,8 @@
 		5912F7A320EB65B500DF9880 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				59BE60B920E9D67E004B1ED6 /* TodoListViewController.swift */,
 				59008B672101EE5A00D9B001 /* CategoryViewController.swift */,
+				59BE60B920E9D67E004B1ED6 /* TodoListViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
